@@ -69,8 +69,8 @@ Contains:
 Stores student records in the following format:
 
 ```text
-101,John,20,15/08/2005
-102,David,21,10/05/2004
+21,John,20,08/03/2006
+22,Joseph,20,02/09/2006
 ```
 
 ---
